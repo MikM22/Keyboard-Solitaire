@@ -1,6 +1,7 @@
 # Keyboard-Solitaire
 Solitaire but for gamers
 
+![gameplay](https://github.com/MikM22/Keyboard-Solitaire/blob/main/gameplay.gif?raw=true)
 
 I made this in like 5 hours so don't try to look at source code
 
